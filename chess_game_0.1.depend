@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1606598478 source:c:\users\trubadur turmentat\desktop\chess_game_private\chess_game_0.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"chess_models.h"
+	"constants.h"
+	<windows.h>
+	<string.h>
+
+1606051452 source:c:\users\trubadur turmentat\desktop\chess_game_private\chess_game_0.1\chess_logic.c
+
+1606061374 source:c:\users\trubadur turmentat\desktop\chess_game_private\chess_game_0.1\chess_models.c
+	<stdlib.h>
+	"chess_models.h"
+	"constants.h"
+
+1606390239 c:\users\trubadur turmentat\desktop\chess_game_private\chess_game_0.1\chess_models.h
+
+1606415079 c:\users\trubadur turmentat\desktop\chess_game_private\chess_game_0.1\constants.h
+
+1606051452 source:c:\users\trubadur turmentat\desktop\chess_game1\chess_logic.c
+
+1606061374 source:c:\users\trubadur turmentat\desktop\chess_game1\chess_models.c
+	<stdlib.h>
+	"chess_models.h"
+	"constants.h"
+
+1606851989 c:\users\trubadur turmentat\desktop\chess_game1\chess_models.h
+
+1606653632 c:\users\trubadur turmentat\desktop\chess_game1\constants.h
+
+1607717952 source:c:\users\trubadur turmentat\desktop\chess_game1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"chess_models.h"
+	"constants.h"
+	<windows.h>
+	<string.h>
+	"menu.h"
+
+1606852815 source:c:\users\trubadur turmentat\desktop\chess_game1\menu.c
+	<stdio.h>
+	"menu.h"
+	"constants.h"
+
+1606943649 c:\users\trubadur turmentat\desktop\chess_game1\menu.h
+
